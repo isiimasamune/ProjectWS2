@@ -1,0 +1,88 @@
+<mxfile host="65bd71144e">
+    <diagram id="33a7GZrv_DoCZBvgCXqO" name="ページ-1">
+        <mxGraphModel dx="920" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="CGJWm8gBEru5xf2_gYIk-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="探す" vertex="1">
+                    <mxGeometry height="40" width="100" x="190" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="CGJWm8gBEru5xf2_gYIk-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="本を検索する" vertex="1">
+                    <mxGeometry height="40" width="100" x="190" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="CGJWm8gBEru5xf2_gYIk-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="☐ Webの検索ページを開く" vertex="1">
+                    <mxGeometry height="40" width="100" x="190" y="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="CGJWm8gBEru5xf2_gYIk-4" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=4;strokeColor=#666666;">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="150" y="220" as="sourcePoint"/>
+                        <mxPoint x="880" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BHypA2_wgnHkL2eOGOR4-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="専用アプリを開く" vertex="1">
+                    <mxGeometry height="40" width="100" x="190" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHypA2_wgnHkL2eOGOR4-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="書名を入力して、検索ボタンを&lt;div&gt;押す&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="40" width="100" x="310" y="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHypA2_wgnHkL2eOGOR4-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="作者名でも検索できる" vertex="1">
+                    <mxGeometry height="40" width="100" x="310" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHypA2_wgnHkL2eOGOR4-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="専用アプリでバーコードを読み取る" vertex="1">
+                    <mxGeometry height="40" width="100" x="310" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHypA2_wgnHkL2eOGOR4-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="会員" vertex="1">
+                    <mxGeometry height="30" width="50" x="185" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHypA2_wgnHkL2eOGOR4-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="司書" vertex="1">
+                    <mxGeometry height="30" width="50" x="245" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHypA2_wgnHkL2eOGOR4-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="司書に探してもらう" vertex="1">
+                    <mxGeometry height="40" width="100" x="430" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHypA2_wgnHkL2eOGOR4-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="✅Webで依頼フォームを開く" vertex="1">
+                    <mxGeometry height="40" width="100" x="430" y="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHypA2_wgnHkL2eOGOR4-16" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ウォーキングスケルトン" vertex="1">
+                    <mxGeometry height="40" width="120" x="10" y="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHypA2_wgnHkL2eOGOR4-17" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="リマインド対応 (v1.0)" vertex="1">
+                    <mxGeometry height="40" width="120" x="10" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHypA2_wgnHkL2eOGOR4-18" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="専用アプリの追加(v2.0)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="40" width="120" x="10" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="BHypA2_wgnHkL2eOGOR4-21" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="160" y="280" as="sourcePoint"/>
+                        <mxPoint x="880" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BHypA2_wgnHkL2eOGOR4-22" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="160" y="340" as="sourcePoint"/>
+                        <mxPoint x="880" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SLe4AXBcMJqKhksqvKoc-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="借りる" vertex="1">
+                    <mxGeometry height="40" width="100" x="550" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="SLe4AXBcMJqKhksqvKoc-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="司書" vertex="1">
+                    <mxGeometry height="30" width="50" x="610" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="SLe4AXBcMJqKhksqvKoc-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="会員" vertex="1">
+                    <mxGeometry height="30" width="50" x="550" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="SLe4AXBcMJqKhksqvKoc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="貸出中の本を予約する" vertex="1">
+                    <mxGeometry height="40" width="100" x="550" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="SLe4AXBcMJqKhksqvKoc-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Webで本を選んで予約ボタンを押す" vertex="1">
+                    <mxGeometry height="40" width="100" x="550" y="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="SLe4AXBcMJqKhksqvKoc-7" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;図書館予約アプリ&lt;/h1&gt;" vertex="1">
+                    <mxGeometry height="40" width="265" x="30" y="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
