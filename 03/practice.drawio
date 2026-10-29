@@ -1,0 +1,88 @@
+<mxfile host="65bd71144e">
+    <diagram id="I0LJ0CTvUQ6G-DJLTjQB" name="ページ-1">
+        <mxGraphModel dx="798" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="学生の、買い物を忘れがちなペインを&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;期限までに必ず購入している状態へ帰る&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;ための買い物メモアプリ&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="90" width="210" x="10" y="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="記録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="20" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="買うものをメモする" vertex="1">
+                    <mxGeometry height="60" width="120" x="20" y="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="スマホアプリに文字を入力する" vertex="1">
+                    <mxGeometry height="60" width="120" x="20" y="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="音声入力する" vertex="1">
+                    <mxGeometry height="60" width="120" x="20" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="思い出す" vertex="1">
+                    <mxGeometry height="60" width="120" x="294" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="手動保存する" vertex="1">
+                    <mxGeometry height="60" width="120" x="160" y="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="自動保存する" vertex="1">
+                    <mxGeometry height="60" width="120" x="160" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="メモを確認する" vertex="1">
+                    <mxGeometry height="60" width="120" x="294" y="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-21" edge="1" parent="1" source="iVmrUjE6_bk7Pf_2JpI9-20" style="edgeStyle=orthogonalEdgeStyle;html=1;innerLoopWaypoints=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.667;entryY=1;entryDx=0;entryDy=0;" target="iVmrUjE6_bk7Pf_2JpI9-20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-22" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;innerLoopWaypoints=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.667;entryY=1;entryDx=0;entryDy=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="480" y="250" as="sourcePoint"/>
+                        <mxPoint x="470" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="アプリを開いて表示する" vertex="1">
+                    <mxGeometry height="60" width="120" x="294" y="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="裏面に常時表示する" vertex="1">
+                    <mxGeometry height="60" width="120" x="294" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="買うものを思い出す" vertex="1">
+                    <mxGeometry height="60" width="120" x="428" y="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="アプリから期限までに通知が来る" vertex="1">
+                    <mxGeometry height="60" width="120" x="428" y="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="売る場へ行く" vertex="1">
+                    <mxGeometry height="60" width="120" x="560" y="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="買う" vertex="1">
+                    <mxGeometry height="60" width="120" x="560" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="アプリが売り場を教えてくれる" vertex="1">
+                    <mxGeometry height="60" width="120" x="560" y="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="メモの通りに買い物をする" vertex="1">
+                    <mxGeometry height="60" width="120" x="690" y="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="音声で教えてくれる" vertex="1">
+                    <mxGeometry height="60" width="120" x="294" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="メモを残す" vertex="1">
+                    <mxGeometry height="60" width="120" x="827" y="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="いま買うべきものが強制表示される" vertex="1">
+                    <mxGeometry height="60" width="120" x="690" y="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="メモを削除" vertex="1">
+                    <mxGeometry height="60" width="120" x="827" y="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+                    <mxGeometry height="60" width="120" x="827" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="iVmrUjE6_bk7Pf_2JpI9-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+                    <mxGeometry height="60" width="120" x="826" y="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
