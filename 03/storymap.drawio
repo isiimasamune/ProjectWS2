@@ -1,0 +1,67 @@
+<mxfile host="65bd71144e">
+    <diagram id="oDSI1CyeGePJlxmH4RO1" name="ページ-1">
+        <mxGraphModel dx="657" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;テーマ　　街中によくある交差点風景再現プログラム&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;信号機があるの交差点をプログラムを駆使して作成し、それに伴い交差点の周辺の様子もぴったりな状況にしたい" vertex="1">
+                    <mxGeometry height="150" width="220" x="140" y="-60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="大規模な建物を作成" vertex="1">
+                    <mxGeometry height="60" width="120" x="160" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="車両を何台か作成して作動している状況にしたい" vertex="1">
+                    <mxGeometry height="60" width="120" x="160" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="たまに見かける、信号機についている音響を追加したい" vertex="1">
+                    <mxGeometry height="60" width="120" x="160" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="大きな交差点にしたいため、大量に信号を設置したい" vertex="1">
+                    <mxGeometry height="60" width="120" x="300" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="普通車だけでなく、トラックや軽自動車やバス、そしてバイクも走らせたい" vertex="1">
+                    <mxGeometry height="60" width="120" x="300" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="信号の状況によって車の停止もさせたい" vertex="1">
+                    <mxGeometry height="60" width="120" x="440" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="会社やマンション、飲食店や銀行やコンビニなど" vertex="1">
+                    <mxGeometry height="60" width="120" x="300" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="色にも焦点を置きたい" vertex="1">
+                    <mxGeometry height="60" width="120" x="440" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="矢印付きの信号にしてリアルを再現したい" vertex="1">
+                    <mxGeometry height="60" width="120" x="440" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="音響の信号は音楽に関係する何らかのアプリを使用したい" vertex="1">
+                    <mxGeometry height="60" width="120" x="570" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="少し思いついたが、運転手目線の画面も作ったらかなり面白そうかもしれない" vertex="1">
+                    <mxGeometry height="60" width="120" x="570" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-15" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="周囲の建物" vertex="1">
+                    <mxGeometry height="50" width="120" x="10" y="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-16" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="自動車関連" vertex="1">
+                    <mxGeometry height="50" width="120" x="10" y="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="9J_uloXlXeV64oU6mwoV-17" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="信号関連" vertex="1">
+                    <mxGeometry height="50" width="120" x="10" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="9coTmzLGAEchhaYqxP5a-1" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint y="190" as="sourcePoint"/>
+                        <mxPoint x="820" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9coTmzLGAEchhaYqxP5a-7" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint y="270" as="sourcePoint"/>
+                        <mxPoint x="820" y="270" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
